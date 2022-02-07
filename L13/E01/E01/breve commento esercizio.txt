@@ -1,0 +1,2 @@
+L'esercizio non è completo, per via di un errore che non sono riuscito a risolvere (riga 93, "graph.c").
+Tuttavia ho scritto a grandi linee porzioni di codice che, anche solo a livello intuitivo, diano l'idea di come avrei risolto il programma, riportando alcune funzioni essenziali in modo esplicito
